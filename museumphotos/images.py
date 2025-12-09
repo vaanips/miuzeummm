@@ -257,9 +257,38 @@ MANUAL_CATEGORIES = {
     #     "Category:War memorials in Punjab",
     #     "Category:Amritsar",
     # ]
-    "Nihal_Singh_Statue_and_Museum_Muktsar": [
-        "Category:Nihal Singh Museum"
+    # "Nihal_Singh_Statue_and_Museum_Muktsar": [
+    #     "Category:Nihal Singh Museum"
+    # ]
+
+    # …your existing entries…
+
+    # Gandhi Smarak Sangrahalaya, Patna
+    # Uses the general Bihar museums & Patna buildings categories;
+    # this is where the file "Gandhi Sangralaya Patna.jpg" lives. :contentReference[oaicite:0]{index=0}
+    "Gandhi_Smarak_Sangrahalaya_Patna": [
+        "Category:Museums in Bihar",
+        "Category:Buildings in Patna",
+    ],
+
+    # Saptaparni Cave “museum” – the real Commons category is for the cave itself,
+    # named Sattapanni Cave. :contentReference[oaicite:1]{index=1}
+    "Saptaparni_Cave_Archeological_Museum_Bodh_Gaya": [
+        "Category:Sattapanni Cave",
+        "Category:Rajgir hills",
+    ],
+
+    # No actual Fukuoka Peace Museum in Patna on Commons – nothing to map to.
+    # Leave this empty so your script just logs 0 images and moves on.
+    "Fukuoka_Peace_Museum_Patna": [
+        # no suitable Commons category or files found
+    ],
+
+    # Madhubani Art Museum – closest match is generic Madhubani art category. :contentReference[oaicite:2]{index=2}
+    "Madhubani_Art_Museum_Madhubani": [
+        "Category:Art of Madhubani",
     ]
+
 }
 
 
