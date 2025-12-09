@@ -221,11 +221,11 @@ MANUAL_CATEGORIES = {
     # "Punjab_State_War_Heroes_Memorial_Museum_Amritsar": [
     #     "Category:Punjab State War Heroes Memorial and Museum"
     # ],
-    "Jallianwala_Bagh_National_Memorial_Amritsar": [
-        "Category:Jallianwala Bagh",
-        "Category:Jallianwala Bagh National Memorial, Amritsar",
-        "Category:Jallianwala Bagh massacre memorial",
-    ]
+    # "Jallianwala_Bagh_National_Memorial_Amritsar": [
+    #     "Category:Jallianwala Bagh",
+    #     "Category:Jallianwala Bagh National Memorial, Amritsar",
+    #     "Category:Jallianwala Bagh massacre memorial",
+    # ]
 
     # ------------------------------------------------------------------------
     # 2) Museum of Everyday Things — files exist under crafts/design, NOT museum tag
@@ -257,7 +257,9 @@ MANUAL_CATEGORIES = {
     #     "Category:War memorials in Punjab",
     #     "Category:Amritsar",
     # ]
-
+    "Nihal_Singh_Statue_and_Museum_Muktsar": [
+        "Category:Nihal Singh Museum"
+    ]
 }
 
 
