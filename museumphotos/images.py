@@ -17,193 +17,246 @@ CREATE_THUMBNAILS = True
 THUMBNAIL_SIZE = (240, 160)
 
 MANUAL_CATEGORIES = {
-    "Indian_Museum_Kolkata": [
-        "Category:Indian Museum, Kolkata",
-        "Category:Interior of the Indian Museum, Kolkata"
-    ],
-    "Victoria_Memorial_Kolkata": [
-        "Category:Victoria Memorial, Kolkata",
-        "Category:Victoria Memorial interior"
-    ],
-    "National_Museum_New_Delhi": [
-        "Category:National Museum, New Delhi",
-        "Category:Interior of the National Museum, New Delhi"
-    ],
-    "National_Gallery_of_Modern_Art_New_Delhi": [
-        "Category:National Gallery of Modern Art, New Delhi",
-        "Category:NGMA New Delhi"
-    ],
-    "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Mumbai": [
-        "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-        "Category:CSMVS Mumbai"
-    ],
-    "Salar_Jung_Museum_Hyderabad": [
-        "Category:Salar Jung Museum",
-        "Category:Collections of the Salar Jung Museum"
-    ],
-    "Government_Museum_Chennai": [
-        "Category:Government Museum, Chennai"
-    ],
-    "National_Museum_of_Indian_Cinema_Mumbai": [
-        "Category:National Museum of Indian Cinema"
-    ],
-    "Nehru_Science_Centre_Mumbai": [
-        "Category:Nehru Science Centre"
-    ],
-    "Goa_Chitra_Museum_Benaulim": [
-        "Category:Goa Chitra Museum"
-    ],
-    "Government_Museum_Bengaluru": [
-        "Category:Government Museum, Bengaluru"
-    ],
-    "Government_Museum_Chennai_Art_History": [
-        "Category:Government Museum, Chennai"
-    ],
-    "Albert_Hall_Museum_Jaipur": [
-        "Category:Albert Hall Museum",
-        "Category:Interior of the Albert Hall Museum"
-    ],
-    "Kerala_Museum_Ernakulam": [
-        "Category:Kerala Museum"
-    ],
-    "Bihar_Museum_Patna": [
-        "Category:Bihar Museum"
-    ],
-    "House_of_Jagat_Seth_Museum_Murshidabad": [
-        "Category:House of Jagat Seth Museum"
-    ],
-    "Dr_MGR_Memorial_House_Chennai": [
-        "Category:Dr. MGR Memorial House"
-    ],
-    "Godly_Museum_Mysore": [
-        "Category:Godly Museum"
-    ],
-    "Vishwam_Museum_Mysore": [
-        "Category:Vishwam Museum"
-    ],
-    "Regional_Museum_of_Natural_History_Mysore": [
-        "Category:Regional Museum of Natural History, Mysuru"
-    ],
-    "Ram_Gauri_Sangrahalay_Gangtok": [
-        "Category:Ram Gauri Sangrahalay"
-    ],
-    "Jehangir_Art_Gallery_Mumbai": [
-        "Category:Jehangir Art Gallery"
-    ],
-    "Kiran_Nadar_Museum_of_Art_New_Delhi": [
-        "Category:Kiran Nadar Museum of Art, New Delhi"
-    ],
-    "Kiran_Nadar_Museum_of_Art_Noida": [
-        "Category:Kiran Nadar Museum of Art, Noida"
-    ],
-    "Triveni_Kala_Sangam_New_Delhi": [
-        "Category:Triveni Kala Sangam"
-    ],
-    "Narrow_Gauge_Rail_Museum_Nagpur": [
-        "Category:Narrow Gauge Rail Museum"
-    ],
-    "Central_Museum_Nagpur": [
-        "Category:Central Museum, Nagpur"
-    ],
-    "Anthropological_Museum_Seminary_Hills_Nagpur": [
-        "Category:Anthropological Museum, Nagpur"
-    ],
-    "Shantivan_Ambedkar_Museum_Nagpur": [
-        "Category:Shantivan Ambedkar Museum"
-    ],
-    "Mysore_Picture_Gallery": [
-        "Category:Mysore Picture Gallery"
-    ],
-    "Textile_Museum_Ahmedabad": [
-        "Category:Textile Museum, Ahmedabad"
-    ],
-    "Toilet_Museum_New_Delhi": [
-        "Category:Sulabh International Museum of Toilets"
-    ],
-    "House_of_Jagat_Seth_Museum_Murshidabad": [
-        "Category:Jagat Seth House (Murshidabad)",  # 70+ files
-    ],
+    # "Indian_Museum_Kolkata": [
+    #     "Category:Indian Museum, Kolkata",
+    #     "Category:Interior of the Indian Museum, Kolkata"
+    # ],
+    # "Victoria_Memorial_Kolkata": [
+    #     "Category:Victoria Memorial, Kolkata",
+    #     "Category:Victoria Memorial interior"
+    # ],
+    # "National_Museum_New_Delhi": [
+    #     "Category:National Museum, New Delhi",
+    #     "Category:Interior of the National Museum, New Delhi"
+    # ],
+    # "National_Gallery_of_Modern_Art_New_Delhi": [
+    #     "Category:National Gallery of Modern Art, New Delhi",
+    #     "Category:NGMA New Delhi"
+    # ],
+    # "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Mumbai": [
+    #     "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    #     "Category:CSMVS Mumbai"
+    # ],
+    # "Salar_Jung_Museum_Hyderabad": [
+    #     "Category:Salar Jung Museum",
+    #     "Category:Collections of the Salar Jung Museum"
+    # ],
+    # "Government_Museum_Chennai": [
+    #     "Category:Government Museum, Chennai"
+    # ],
+    # "National_Museum_of_Indian_Cinema_Mumbai": [
+    #     "Category:National Museum of Indian Cinema"
+    # ],
+    # "Nehru_Science_Centre_Mumbai": [
+    #     "Category:Nehru Science Centre"
+    # ],
+    # "Goa_Chitra_Museum_Benaulim": [
+    #     "Category:Goa Chitra Museum"
+    # ],
+    # "Government_Museum_Bengaluru": [
+    #     "Category:Government Museum, Bengaluru"
+    # ],
+    # "Government_Museum_Chennai_Art_History": [
+    #     "Category:Government Museum, Chennai"
+    # ],
+    # "Albert_Hall_Museum_Jaipur": [
+    #     "Category:Albert Hall Museum",
+    #     "Category:Interior of the Albert Hall Museum"
+    # ],
+    # "Kerala_Museum_Ernakulam": [
+    #     "Category:Kerala Museum"
+    # ],
+    # "Bihar_Museum_Patna": [
+    #     "Category:Bihar Museum"
+    # ],
+    # "House_of_Jagat_Seth_Museum_Murshidabad": [
+    #     "Category:House of Jagat Seth Museum"
+    # ],
+    # "Dr_MGR_Memorial_House_Chennai": [
+    #     "Category:Dr. MGR Memorial House"
+    # ],
+    # "Godly_Museum_Mysore": [
+    #     "Category:Godly Museum"
+    # ],
+    # "Vishwam_Museum_Mysore": [
+    #     "Category:Vishwam Museum"
+    # ],
+    # "Regional_Museum_of_Natural_History_Mysore": [
+    #     "Category:Regional Museum of Natural History, Mysuru"
+    # ],
+    # "Ram_Gauri_Sangrahalay_Gangtok": [
+    #     "Category:Ram Gauri Sangrahalay"
+    # ],
+    # "Jehangir_Art_Gallery_Mumbai": [
+    #     "Category:Jehangir Art Gallery"
+    # ],
+    # "Kiran_Nadar_Museum_of_Art_New_Delhi": [
+    #     "Category:Kiran Nadar Museum of Art, New Delhi"
+    # ],
+    # "Kiran_Nadar_Museum_of_Art_Noida": [
+    #     "Category:Kiran Nadar Museum of Art, Noida"
+    # ],
+    # "Triveni_Kala_Sangam_New_Delhi": [
+    #     "Category:Triveni Kala Sangam"
+    # ],
+    # "Narrow_Gauge_Rail_Museum_Nagpur": [
+    #     "Category:Narrow Gauge Rail Museum"
+    # ],
+    # "Central_Museum_Nagpur": [
+    #     "Category:Central Museum, Nagpur"
+    # ],
+    # "Anthropological_Museum_Seminary_Hills_Nagpur": [
+    #     "Category:Anthropological Museum, Nagpur"
+    # ],
+    # "Shantivan_Ambedkar_Museum_Nagpur": [
+    #     "Category:Shantivan Ambedkar Museum"
+    # ],
+    # "Mysore_Picture_Gallery": [
+    #     "Category:Mysore Picture Gallery"
+    # ],
+    # "Textile_Museum_Ahmedabad": [
+    #     "Category:Textile Museum, Ahmedabad"
+    # ],
+    # "Toilet_Museum_New_Delhi": [
+    #     "Category:Sulabh International Museum of Toilets"
+    # ],
+    # "House_of_Jagat_Seth_Museum_Murshidabad": [
+    #     "Category:Jagat Seth House (Murshidabad)",  # 70+ files
+    # ],
 
-    # Dr_MGR_Memorial_House_Chennai
-    # You used: "Category:Dr. MGR Memorial House"
-    "Dr_MGR_Memorial_House_Chennai": [
-        "Category:MGR Memorial House",             # 4 files
-    ],
+    # # Dr_MGR_Memorial_House_Chennai
+    # # You used: "Category:Dr. MGR Memorial House"
+    # "Dr_MGR_Memorial_House_Chennai": [
+    #     "Category:MGR Memorial House",             # 4 files
+    # ],
 
-    # Regional_Museum_of_Natural_History_Mysore
-    # You used: "Category:Regional Museum of Natural History, Mysuru"
-    "Regional_Museum_of_Natural_History_Mysore": [
-        "Category:Regional Museum of Natural History, Mysore",  # 4 files
-    ],
+    # # Regional_Museum_of_Natural_History_Mysore
+    # # You used: "Category:Regional Museum of Natural History, Mysuru"
+    # "Regional_Museum_of_Natural_History_Mysore": [
+    #     "Category:Regional Museum of Natural History, Mysore",  # 4 files
+    # ],
 
-    # Government_Museum_Bengaluru (you only got 1)
-    # You used: "Category:Government Museum, Bengaluru"
-    "Government_Museum_Bengaluru": [
-        "Category:Government Museum (Bangalore)",  # 150+ files
-    ],
+    # # Government_Museum_Bengaluru (you only got 1)
+    # # You used: "Category:Government Museum, Bengaluru"
+    # "Government_Museum_Bengaluru": [
+    #     "Category:Government Museum (Bangalore)",  # 150+ files
+    # ],
 
-    # Narrow_Gauge_Rail_Museum_Nagpur
-    # You used: "Category:Narrow Gauge Rail Museum" (no such cat)
-    "Narrow_Gauge_Rail_Museum_Nagpur": [
-        "Category:Railway museums in India",
-        "Category:Visitor attractions in Nagpur",
-    ],
+    # # Narrow_Gauge_Rail_Museum_Nagpur
+    # # You used: "Category:Narrow Gauge Rail Museum" (no such cat)
+    # "Narrow_Gauge_Rail_Museum_Nagpur": [
+    #     "Category:Railway museums in India",
+    #     "Category:Visitor attractions in Nagpur",
+    # ],
 
-    # Central_Museum_Nagpur – only 1 file on Commons, in a generic city cat
-    "Central_Museum_Nagpur": [
-        "Category:Nagpur",
-    ],
+    # # Central_Museum_Nagpur – only 1 file on Commons, in a generic city cat
+    # "Central_Museum_Nagpur": [
+    #     "Category:Nagpur",
+    # ],
 
-    # Textile_Museum_Ahmedabad – this is the Calico Museum of Textiles
-    "Textile_Museum_Ahmedabad": [
-        "Category:Calico Museum of Textiles",
-    ],
+    # # Textile_Museum_Ahmedabad – this is the Calico Museum of Textiles
+    # "Textile_Museum_Ahmedabad": [
+    #     "Category:Calico Museum of Textiles",
+    # ],
 
-    # Toilet_Museum_New_Delhi – Sulabh International Museum of Toilets
-    "Toilet_Museum_New_Delhi": [
-        "Category:Sulabh International",
-        "Category:Public toilets in India",
-    ],
+    # # Toilet_Museum_New_Delhi – Sulabh International Museum of Toilets
+    # "Toilet_Museum_New_Delhi": [
+    #     "Category:Sulabh International",
+    #     "Category:Public toilets in India",
+    # ],
 
-    # Triveni Kala Sangam – only one image, lives in generic categories
-    "Triveni_Kala_Sangam_New_Delhi": [
-        "Category:Art galleries in India",
-        "Category:Buildings in New Delhi",
-    ],
+    # # Triveni Kala Sangam – only one image, lives in generic categories
+    # "Triveni_Kala_Sangam_New_Delhi": [
+    #     "Category:Art galleries in India",
+    #     "Category:Buildings in New Delhi",
+    # ],
 
-    # Kiran Nadar Museum of Art – there is no museum category,
-    # but there *are* images in the person category
-    "Kiran_Nadar_Museum_of_Art_New_Delhi": [
-        "Category:Kiran Nadar",
-    ],
-    "Kiran_Nadar_Museum_of_Art_Noida": [
-        "Category:Kiran Nadar",
-    ],
+    # # Kiran Nadar Museum of Art – there is no museum category,
+    # # but there *are* images in the person category
+    # "Kiran_Nadar_Museum_of_Art_New_Delhi": [
+    #     "Category:Kiran Nadar",
+    # ],
+    # "Kiran_Nadar_Museum_of_Art_Noida": [
+    #     "Category:Kiran Nadar",
+    # ],
 
-    # Vishwam Museum Mysore – appears only on a commemorative stamp
-    "Vishwam_Museum_Mysore": [
-        "Category:2018 stamps of India",
-        "Category:My Stamp",
-    ],
+    # # Vishwam Museum Mysore – appears only on a commemorative stamp
+    # "Vishwam_Museum_Mysore": [
+    #     "Category:2018 stamps of India",
+    #     "Category:My Stamp",
+    # ],
 
-    # --- categories with subcategories (you got < 11, but more are available) ---
+    # # --- categories with subcategories (you got < 11, but more are available) ---
 
-    # CSMVS – you only got BISM.jpg because almost everything is in subcats
-    "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Mumbai": [
-        "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-        "Category:Exterior of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-        "Category:Interior of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-        "Category:Collections in the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-    ],
+    # # CSMVS – you only got BISM.jpg because almost everything is in subcats
+    # "Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_Mumbai": [
+    #     "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    #     "Category:Exterior of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    #     "Category:Interior of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    #     "Category:Collections in the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    # ],
 
-    # NGMA New Delhi – you already have two good cats, add the higher-level ones
-    "National_Gallery_of_Modern_Art_New_Delhi": [
-        "Category:National Gallery of Modern Art, India",
-        "Category:Paintings in the National Gallery Of Modern Art, New Delhi",
-        "Category:National Gallery of Modern Art, New Delhi",
-        "Category:NGMA New Delhi",
-    ],
+    # # NGMA New Delhi – you already have two good cats, add the higher-level ones
+    # "National_Gallery_of_Modern_Art_New_Delhi": [
+    #     "Category:National Gallery of Modern Art, India",
+    #     "Category:Paintings in the National Gallery Of Modern Art, New Delhi",
+    #     "Category:National Gallery of Modern Art, New Delhi",
+    #     "Category:NGMA New Delhi",
+    # ],
+    #  "Museum_of_Everyday_Things_Delhi": [
+    #     "Category:Museum of Everyday Things"
+    # ],
+    # "Bunker_Museum_Mumbai": [
+    #     "Category:Bunker Museum Mumbai"
+    # ],
+    # "Nehru_Planetarium_Museum_New_Delhi": [
+    #     "Category:Nehru Planetarium, New Delhi"
+    # ],
+    # "Jallianwala_Bagh_National_Memorial_Amritsar": [
+    #     "Category:Jallianwala Bagh National Memorial"
+    # ],
+    # "Partition_Museum_Amritsar": [
+    #     "Category:Partition Museum, Amritsar"
+    # ],
+    # "Punjab_State_War_Heroes_Memorial_Museum_Amritsar": [
+    #     "Category:Punjab State War Heroes Memorial and Museum"
+    # ],
+    "Jallianwala_Bagh_National_Memorial_Amritsar": [
+        "Category:Jallianwala Bagh",
+        "Category:Jallianwala Bagh National Memorial, Amritsar",
+        "Category:Jallianwala Bagh massacre memorial",
+    ]
 
+    # ------------------------------------------------------------------------
+    # 2) Museum of Everyday Things — files exist under crafts/design, NOT museum tag
+    #    No direct category — fallback to related parent/personal category
+    # ------------------------------------------------------------------------
+    # "Museum_of_Everyday_Things_Delhi": [
+    #     "Category:Everyday objects in India",
+    #     "Category:Design museums in India",
+    #     "Category:Art and craft in India",
+    #     "Category:Delhi",                 # fallback source, use filter later
+    # ],
+
+    # # ------------------------------------------------------------------------
+    # # 3) Bunker Museum Mumbai — located inside Raj Bhavan, no official museum category
+    # # ------------------------------------------------------------------------
+    # "Bunker_Museum_Mumbai": [
+    #     "Category:Raj Bhavan, Mumbai",
+    #     "Category:Mumbai",
+    #     "Category:Indian Army bunkers",
+    # ],
+
+    # # ------------------------------------------------------------------------
+    # # 4) Punjab State War Heroes Memorial & Museum, Amritsar
+    # #    Exists under different category format
+    # # ------------------------------------------------------------------------
+    # "Punjab_State_War_Heroes_Memorial_Museum_Amritsar": [
+    #     "Category:Punjab State War Heroes Memorial & Museum",
+    #     "Category:Punjab State War Heroes Memorial and Museum, Amritsar",
+    #     "Category:War memorials in Punjab",
+    #     "Category:Amritsar",
+    # ]
 
 }
 
