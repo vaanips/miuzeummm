@@ -1352,538 +1352,538 @@ MANUAL_CATEGORIES = {
 # "Category:Chandigarh Textile Heritage Museum, Chandigarh",
 # "Category:Textile"
 # ],
-"Museum_of_Tribal_Heritage_Imphal": [
-"Category:Museum of Tribal Heritage, Imphal",
-"Category:Cultural"
-],
-"Museum_of_Ancient_Art_Bhubaneswar": [
-"Category:Museum of Ancient Art, Bhubaneswar",
-"Category:Archaeology"
-],
-"Museum_of_Indian_Crafts_Ahmedabad": [
-"Category:Museum of Indian Crafts, Ahmedabad",
-"Category:Handicrafts"
-],
-"Museum_of_Textile_Arts_Surat": [
-"Category:Museum of Textile Arts, Surat",
-"Category:Textile"
-],
-"Museum_of_Traditional_Folk_Arts_Patna": [
-"Category:Museum of Traditional Folk Arts, Patna",
-"Category:Folk Art"
-],
-"Museum_of_Art_&_Crafts_Delhi": [
-"Category:Museum of Art & Crafts, Delhi",
-"Category:Art & Crafts"
-],
-"Museum_of_Natural_Wonders_Mysore": [
-"Category:Museum of Natural Wonders, Mysore",
-"Category:Natural History"
-],
-"Museum_of_Tribal_Paintings_Raipur": [
-"Category:Museum of Tribal Paintings, Raipur",
-"Category:Cultural"
-],
-"Museum_of_Contemporary_Sculptures_Mumbai": [
-"Category:Museum of Contemporary Sculptures, Mumbai",
-"Category:Modern Art"
-],
-"Museum_of_Indian_Sculpture_New_Delhi": [
-"Category:Museum of Indian Sculpture, New Delhi",
-"Category:Art"
-],
-"Museum_of_Folk_Instruments_Chennai": [
-"Category:Museum of Folk Instruments, Chennai",
-"Category:Cultural"
-],
-"Museum_of_Tribal_Jewelry_Imphal": [
-"Category:Museum of Tribal Jewelry, Imphal",
-"Category:Crafts"
-],
-"Museum_of_Indian_Dance_Delhi": [
-"Category:Museum of Indian Dance, Delhi",
-"Category:Cultural"
-],
-"Museum_of_Maritime_History_Goa": [
-"Category:Museum of Maritime History, Goa",
-"Category:Maritime"
-],
-"Museum_of_Folk_Literature_Bhubaneswar": [
-"Category:Museum of Folk Literature, Bhubaneswar",
-"Category:Cultural"
-],
-"Museum_of_Indian_Festivals_Jaipur": [
-"Category:Museum of Indian Festivals, Jaipur",
-"Category:Cultural"
-],
-"Museum_of_Ancient_Coins_Kolkata": [
-"Category:Museum of Ancient Coins, Kolkata",
-"Category:Numismatics"
-],
-"Museum_of_Indian_Pottery_Ahmedabad": [
-"Category:Museum of Indian Pottery, Ahmedabad",
-"Category:Crafts"
-],
-"Museum_of_Tribal_Masks_Imphal": [
-"Category:Museum of Tribal Masks, Imphal",
-"Category:Cultural"
-],
-"Museum_of_Indian_Textiles_New_Delhi": [
-"Category:Museum of Indian Textiles, New Delhi",
-"Category:Textile"
-],
-"Museum_of_Indian_Metalwork_Mumbai": [
-"Category:Museum of Indian Metalwork, Mumbai",
-"Category:Art & Crafts"
-],
-"Museum_of_Indian_Folk_Dance_Patna": [
-"Category:Museum of Indian Folk Dance, Patna",
-"Category:Cultural"
-],
-"Museum_of_Indian_Jewelry_Jaipur": [
-"Category:Museum of Indian Jewelry, Jaipur",
-"Category:Crafts"
-],
-"Museum_of_Indian_Stone_Carving_Bhubaneswar": [
-"Category:Museum of Indian Stone Carving, Bhubaneswar",
-"Category:Art"
-],
-"Museum_of_Indian_Glasswork_Kolkata": [
-"Category:Museum of Indian Glasswork, Kolkata",
-"Category:Crafts"
-],
-"Museum_of_Indian_Calligraphy_Delhi": [
-"Category:Museum of Indian Calligraphy, Delhi",
-"Category:Art"
-],
-"Museum_of_Indian_Miniature_Paintings_Jaipur": [
-"Category:Museum of Indian Miniature Paintings, Jaipur",
-"Category:Art"
-],
-"Museum_of_Tribal_Agriculture_Mysore": [
-"Category:Museum of Tribal Agriculture, Mysore",
-"Category:Agriculture"
-],
-"Museum_of_Indian_Handicrafts_Ahmedabad": [
-"Category:Museum of Indian Handicrafts, Ahmedabad",
-"Category:Handicrafts"
-],
-"Museum_of_Indian_Folk_Art_Bhubaneswar": [
-"Category:Museum of Indian Folk Art, Bhubaneswar",
-"Category:Folk Art"
-],
-"Museum_of_Tribal_Religion_Imphal": [
-"Category:Museum of Tribal Religion, Imphal",
-"Category:Religious"
-],
-"Museum_of_Indian_Ceramics_New_Delhi": [
-"Category:Museum of Indian Ceramics, New Delhi",
-"Category:Art & Crafts"
-],
-"Museum_of_Indian_Folk_Theatre_Patna": [
-"Category:Museum of Indian Folk Theatre, Patna",
-"Category:Cultural"
-],
-"Museum_of_Tribal_Textiles_Jaipur": [
-"Category:Museum of Tribal Textiles, Jaipur",
-"Category:Textile"
-],
-"Museum_of_Indian_Musical_Instruments_Mumbai": [
-"Category:Museum of Indian Musical Instruments, Mumbai",
-"Category:Cultural"
-],
-"Museum_of_Tribal_Masks_Chennai": [
-"Category:Museum of Tribal Masks, Chennai",
-"Category:Cultural"
-],
-"Museum_of_Indian_Pottery_Surat": [
-"Category:Museum of Indian Pottery, Surat",
-"Category:Crafts"
-],
-"Museum_of_Indian_Tribal_Art_Bhopal": [
-"Category:Museum of Indian Tribal Art, Bhopal",
-"Category:Cultural"
-],
-"Museum_of_Indian_Folk_Tales_New_Delhi": [
-"Category:Museum of Indian Folk Tales, New Delhi",
-"Category:Cultural"
-],
-"Museum_of_Indian_Folk_Paintings_Jaipur": [
-"Category:Museum of Indian Folk Paintings, Jaipur",
-"Category:Folk Art"
-],
-"Museum_of_Indian_Tribal_Crafts_Imphal": [
-"Category:Museum of Indian Tribal Crafts, Imphal",
-"Category:Crafts"
-],
-"Museum_of_Indian_Folk_Music_Mysore": [
-"Category:Museum of Indian Folk Music, Mysore",
-"Category:Cultural"
-],
-"Museum_of_Indian_Textile_Arts_Kolkata": [
-"Category:Museum of Indian Textile Arts, Kolkata",
-"Category:Textile"
-],
-"Akanal_Archaeological_Museum_Bijapur": [
-"Category:Akanal Archaeological Museum, Bijapur",
-"Category:Archaeology"
-],
-"Amar_Mahal_Museum_and_Library_Hyderabad": [
-"Category:Amar Mahal Museum and Library, Hyderabad",
-"Category:History"
-],
-"Anantapur_Archaeological_Museum_Anantapur": [
-"Category:Anantapur Archaeological Museum, Anantapur",
-"Category:Archaeology"
-],
-"Archaeological_Museum_Tirupati": [
-"Category:Archaeological Museum, Tirupati",
-"Category:Archaeology"
-],
-"Assam_State_Museum_Guwahati": [
-"Category:Assam State Museum, Guwahati",
-"Category:History"
-],
-"Bhim_Betka_Rock_Shelters_Museum_Bhopal": [
-"Category:Bhim Betka Rock Shelters Museum, Bhopal",
-"Category:Archaeology"
-],
-"Buddhist_Museum_Vaishali": [
-"Category:Buddhist Museum, Vaishali",
-"Category:Religious Art"
-],
-"Cauvery_Archaeological_Museum_Thanjavur": [
-"Category:Cauvery Archaeological Museum, Thanjavur",
-"Category:Archaeology"
-],
-"Central_Museum_Kolkata": [
-"Category:Central Museum, Kolkata",
-"Category:General"
-],
-"Chandigarh_Museum_of_Folk_Art_Chandigarh": [
-"Category:Chandigarh Museum of Folk Art, Chandigarh",
-"Category:Folk Art"
-],
-"Chennai_Archaeological_Museum_Chennai": [
-"Category:Chennai Archaeological Museum, Chennai",
-"Category:Archaeology"
-],
-"Chhattisgarh_State_Museum_Raipur": [
-"Category:Chhattisgarh State Museum, Raipur",
-"Category:Art & Culture"
-],
-"Coorg_Museum_Madikeri": [
-"Category:Coorg Museum, Madikeri",
-"Category:History"
-],
-"Dibrugarh_Museum_Dibrugarh": [
-"Category:Dibrugarh Museum, Dibrugarh",
-"Category:History"
-],
-"Dr._Bhau_Daji_Lad_Museum_Mumbai": [
-"Category:Dr. Bhau Daji Lad Museum, Mumbai",
-"Category:History"
-],
-"East_India_Company_Museum_Kolkata": [
-"Category:East India Company Museum, Kolkata",
-"Category:History"
-],
-"Folk_Art_Museum_Patna": [
-"Category:Folk Art Museum, Patna",
-"Category:Folk Art"
-],
-"Gandhi_Museum_Ahmedabad": [
-"Category:Gandhi Museum, Ahmedabad",
-"Category:History"
-],
-"Gwalior_Fort_Museum_Gwalior": [
-"Category:Gwalior Fort Museum, Gwalior",
-"Category:History"
-],
-"Hampi_Archaeological_Museum_Hampi": [
-"Category:Hampi Archaeological Museum, Hampi",
-"Category:Archaeology"
-],
-"Harishchandra_Research_Institute_Museum_Varanasi": [
-"Category:Harishchandra Research Institute Museum, Varanasi",
-"Category:History"
-],
-"Hazaribagh_Museum_Hazaribagh": [
-"Category:Hazaribagh Museum, Hazaribagh",
-"Category:History"
-],
-"Himachal_State_Museum_Shimla": [
-"Category:Himachal State Museum, Shimla",
-"Category:Cultural"
-],
-"Hyderabad_Museum_Hyderabad": [
-"Category:Hyderabad Museum, Hyderabad",
-"Category:History"
-],
-"Indian_Air_Force_Museum_New_Delhi": [
-"Category:Indian Air Force Museum, New Delhi",
-"Category:Military"
-],
-"Indian_Museum_Kolkata": [
-"Category:Indian Museum, Kolkata",
-"Category:General/Natural History"
-],
-"Indira_Gandhi_Museum_Hyderabad": [
-"Category:Indira Gandhi Museum, Hyderabad",
-"Category:History"
-],
-"International_Dolls_Museum_New_Delhi": [
-"Category:International Dolls Museum, New Delhi",
-"Category:Toys & Dolls"
-],
-"Jaisalmer_Fort_Museum_Jaisalmer": [
-"Category:Jaisalmer Fort Museum, Jaisalmer",
-"Category:History"
-],
-"Jammu_Archaeological_Museum_Jammu": [
-"Category:Jammu Archaeological Museum, Jammu",
-"Category:Archaeology"
-],
-"Jodhpur_Fort_Museum_Jodhpur": [
-"Category:Jodhpur Fort Museum, Jodhpur",
-"Category:History"
-],
-"Karnataka_Government_Museum_Mysore": [
-"Category:Karnataka Government Museum, Mysore",
-"Category:Art & Culture"
-],
-"Kerala_Folklore_Museum_Kozhikode": [
-"Category:Kerala Folklore Museum, Kozhikode",
-"Category:Cultural"
-],
-"Khandwa_Museum_Khandwa": [
-"Category:Khandwa Museum, Khandwa",
-"Category:History"
-],
-"Kochi_Maritime_Museum_Kochi": [
-"Category:Kochi Maritime Museum, Kochi",
-"Category:Maritime"
-],
-"Kolkata_Port_Museum_Kolkata": [
-"Category:Kolkata Port Museum, Kolkata",
-"Category:Maritime"
-],
-"Lalbagh_Botanical_Garden_Museum_Bangalore": [
-"Category:Lalbagh Botanical Garden Museum, Bangalore",
-"Category:Natural History"
-],
-"Lucknow_State_Museum_Lucknow": [
-"Category:Lucknow State Museum, Lucknow",
-"Category:History"
-],
-"Madhya_Pradesh_Tribal_Museum_Bhopal": [
-"Category:Madhya Pradesh Tribal Museum, Bhopal",
-"Category:Cultural"
-],
-"Maharashtra_State_Museum_Mumbai": [
-"Category:Maharashtra State Museum, Mumbai",
-"Category:Art & History"
-],
-"Mangalore_Maritime_Museum_Mangalore": [
-"Category:Mangalore Maritime Museum, Mangalore",
-"Category:Maritime"
-],
-"Manipur_State_Museum_Imphal": [
-"Category:Manipur State Museum, Imphal",
-"Category:Cultural"
-],
-"Meghalaya_State_Museum_Shillong": [
-"Category:Meghalaya State Museum, Shillong",
-"Category:Cultural"
-],
-"Mizoram_State_Museum_Aizawl": [
-"Category:Mizoram State Museum, Aizawl",
-"Category:History"
-],
-"Museum_of_Goa_Panjim": [
-"Category:Museum of Goa, Panjim",
-"Category:Contemporary Art"
-],
-"Museum_of_Manipur_Culture_Imphal": [
-"Category:Museum of Manipur Culture, Imphal",
-"Category:Cultural"
-],
-"Museum_of_Natural_History_Chennai": [
-"Category:Museum of Natural History, Chennai",
-"Category:Natural History"
-],
-"Museum_of_Tribal_Art_Ahmedabad": [
-"Category:Museum of Tribal Art, Ahmedabad",
-"Category:Cultural"
-],
-"Museum_of_Tribal_Paintings_Raipur": [
-"Category:Museum of Tribal Paintings, Raipur",
-"Category:Cultural"
-],
-"Nagaland_State_Museum_Kohima": [
-"Category:Nagaland State Museum, Kohima",
-"Category:Cultural"
-],
-"National_Gallery_of_Modern_Art_New_Delhi": [
-"Category:National Gallery of Modern Art, New Delhi",
-"Category:Modern Art"
-],
-"National_Handicrafts_and_Handlooms_Museum_New_Delhi": [
-"Category:National Handicrafts and Handlooms Museum, New Delhi",
-"Category:Handicrafts"
-],
-"National_Rail_Museum_New_Delhi": [
-"Category:National Rail Museum, New Delhi",
-"Category:Transport"
-],
-"Nathdwara_Art_Museum_Nathdwara": [
-"Category:Nathdwara Art Museum, Nathdwara",
-"Category:Art"
-],
-"Orissa_State_Museum_Bhubaneswar": [
-"Category:Orissa State Museum, Bhubaneswar",
-"Category:History"
-],
-"Patna_Museum_Patna": [
-"Category:Patna Museum, Patna",
-"Category:History"
-],
-"Punjab_State_Museum_Patiala": [
-"Category:Punjab State Museum, Patiala",
-"Category:Art & Culture"
-],
-"Railway_Heritage_Museum_Mysore": [
-"Category:Railway Heritage Museum, Mysore",
-"Category:Transport"
-],
-"Rajasthan_Oriental_Research_Institute_Jaipur": [
-"Category:Rajasthan Oriental Research Institute, Jaipur",
-"Category:Research"
-],
-"Rajasthan_State_Archives_Museum_Jaipur": [
-"Category:Rajasthan State Archives Museum, Jaipur",
-"Category:History"
-],
-"Rashtrapati_Bhavan_Museum_New_Delhi": [
-"Category:Rashtrapati Bhavan Museum, New Delhi",
-"Category:History"
-],
-"Salar_Jung_Museum_Hyderabad": [
-"Category:Salar Jung Museum, Hyderabad",
-"Category:Art & History"
-],
-"Science_City_Ahmedabad": [
-"Category:Science City, Ahmedabad",
-"Category:Science"
-],
-"Sikkim_State_Museum_Gangtok": [
-"Category:Sikkim State Museum, Gangtok",
-"Category:History"
-],
-"Smt._Hiraben_Nanavati_Museum_Ahmedabad": [
-"Category:Smt. Hiraben Nanavati Museum, Ahmedabad",
-"Category:Art & Culture"
-],
-"State_Museum_of_Kerala_Thiruvananthapuram": [
-"Category:State Museum of Kerala, Thiruvananthapuram",
-"Category:Art & History"
-],
-"Surat_Textile_Museum_Surat": [
-"Category:Surat Textile Museum, Surat",
-"Category:Textile"
-],
-"Tamil_Nadu_Archaeology_Museum_Chennai": [
-"Category:Tamil Nadu Archaeology Museum, Chennai",
-"Category:Archaeology"
-],
-"Telangana_State_Museum_Hyderabad": [
-"Category:Telangana State Museum, Hyderabad",
-"Category:History"
-],
-"Tripura_State_Museum_Agartala": [
-"Category:Tripura State Museum, Agartala",
-"Category:Cultural"
-],
-"Uttar_Pradesh_State_Museum_Lucknow": [
-"Category:Uttar Pradesh State Museum, Lucknow",
-"Category:History"
-],
-"Uttarakhand_State_Museum_Dehradun": [
-"Category:Uttarakhand State Museum, Dehradun",
-"Category:Cultural"
-],
-"Victoria_Memorial_Kolkata": [
-"Category:Victoria Memorial, Kolkata",
-"Category:History"
-],
-"West_Bengal_State_Museum_Kolkata": [
-"Category:West Bengal State Museum, Kolkata",
-"Category:History"
-],
-"World_War_II_Museum_Kochi": [
-"Category:World War II Museum, Kochi",
-"Category:Military"
-],
-"Zoo_Museum_Kolkata": [
-"Category:Zoo Museum, Kolkata",
-"Category:Natural History"
-],
-"Zonal_Cultural_Museum_Imphal": [
-"Category:Zonal Cultural Museum, Imphal",
-"Category:Cultural"
-],
-"Zonal_Museum_of_Archaeology_Bhubaneswar": [
-"Category:Zonal Museum of Archaeology, Bhubaneswar",
-"Category:Archaeology"
-],
-"Zoological_Survey_of_India_Museum_Kolkata": [
-"Category:Zoological Survey of India Museum, Kolkata",
-"Category:Natural History"
-],
-"Adilabad_Museum_Adilabad": [
-"Category:Adilabad Museum, Adilabad",
-"Category:History"
-],
-"Aizawl_Heritage_Museum_Aizawl": [
-"Category:Aizawl Heritage Museum, Aizawl",
-"Category:Cultural"
-],
-"Almora_Museum_Almora": [
-"Category:Almora Museum, Almora",
-"Category:Cultural"
-],
-"Ambedkar_Memorial_Museum_Hyderabad": [
-"Category:Ambedkar Memorial Museum, Hyderabad",
-"Category:History"
-],
-"Amravati_Museum_Amravati": [
-"Category:Amravati Museum, Amravati",
-"Category:History"
-],
-"Andhra_Pradesh_State_Archaeology_Museum_Vijayawada": [
-"Category:Andhra Pradesh State Archaeology Museum, Vijayawada",
-"Category:Archaeology"
-],
-"Ankleshwar_Museum_Ankleshwar": [
-"Category:Ankleshwar Museum, Ankleshwar",
-"Category:History"
-],
-"Asansol_Museum_Asansol": [
-"Category:Asansol Museum, Asansol",
-"Category:History"
-],
-"Balasinor_Fossil_Park_Museum_Balasinor": [
-"Category:Balasinor Fossil Park Museum, Balasinor",
-"Category:Paleontology"
-],
-"Banda_Museum_Banda": [
-"Category:Banda Museum, Banda",
-"Category:History"
-],
-"Bardhaman_Museum_Bardhaman": [
-"Category:Bardhaman Museum, Bardhaman",
-"Category:History"
-]
+# "Museum_of_Tribal_Heritage_Imphal": [
+# "Category:Museum of Tribal Heritage, Imphal",
+# "Category:Cultural"
+# ],
+# "Museum_of_Ancient_Art_Bhubaneswar": [
+# "Category:Museum of Ancient Art, Bhubaneswar",
+# "Category:Archaeology"
+# ],
+# "Museum_of_Indian_Crafts_Ahmedabad": [
+# "Category:Museum of Indian Crafts, Ahmedabad",
+# "Category:Handicrafts"
+# ],
+# "Museum_of_Textile_Arts_Surat": [
+# "Category:Museum of Textile Arts, Surat",
+# "Category:Textile"
+# ],
+# "Museum_of_Traditional_Folk_Arts_Patna": [
+# "Category:Museum of Traditional Folk Arts, Patna",
+# "Category:Folk Art"
+# ],
+# "Museum_of_Art_&_Crafts_Delhi": [
+# "Category:Museum of Art & Crafts, Delhi",
+# "Category:Art & Crafts"
+# ],
+# "Museum_of_Natural_Wonders_Mysore": [
+# "Category:Museum of Natural Wonders, Mysore",
+# "Category:Natural History"
+# ],
+# "Museum_of_Tribal_Paintings_Raipur": [
+# "Category:Museum of Tribal Paintings, Raipur",
+# "Category:Cultural"
+# ],
+# "Museum_of_Contemporary_Sculptures_Mumbai": [
+# "Category:Museum of Contemporary Sculptures, Mumbai",
+# "Category:Modern Art"
+# ],
+# "Museum_of_Indian_Sculpture_New_Delhi": [
+# "Category:Museum of Indian Sculpture, New Delhi",
+# "Category:Art"
+# ],
+# "Museum_of_Folk_Instruments_Chennai": [
+# "Category:Museum of Folk Instruments, Chennai",
+# "Category:Cultural"
+# ],
+# "Museum_of_Tribal_Jewelry_Imphal": [
+# "Category:Museum of Tribal Jewelry, Imphal",
+# "Category:Crafts"
+# ],
+# "Museum_of_Indian_Dance_Delhi": [
+# "Category:Museum of Indian Dance, Delhi",
+# "Category:Cultural"
+# ],
+# "Museum_of_Maritime_History_Goa": [
+# "Category:Museum of Maritime History, Goa",
+# "Category:Maritime"
+# ],
+# "Museum_of_Folk_Literature_Bhubaneswar": [
+# "Category:Museum of Folk Literature, Bhubaneswar",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Festivals_Jaipur": [
+# "Category:Museum of Indian Festivals, Jaipur",
+# "Category:Cultural"
+# ],
+# "Museum_of_Ancient_Coins_Kolkata": [
+# "Category:Museum of Ancient Coins, Kolkata",
+# "Category:Numismatics"
+# ],
+# "Museum_of_Indian_Pottery_Ahmedabad": [
+# "Category:Museum of Indian Pottery, Ahmedabad",
+# "Category:Crafts"
+# ],
+# "Museum_of_Tribal_Masks_Imphal": [
+# "Category:Museum of Tribal Masks, Imphal",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Textiles_New_Delhi": [
+# "Category:Museum of Indian Textiles, New Delhi",
+# "Category:Textile"
+# ],
+# "Museum_of_Indian_Metalwork_Mumbai": [
+# "Category:Museum of Indian Metalwork, Mumbai",
+# "Category:Art & Crafts"
+# ],
+# "Museum_of_Indian_Folk_Dance_Patna": [
+# "Category:Museum of Indian Folk Dance, Patna",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Jewelry_Jaipur": [
+# "Category:Museum of Indian Jewelry, Jaipur",
+# "Category:Crafts"
+# ],
+# "Museum_of_Indian_Stone_Carving_Bhubaneswar": [
+# "Category:Museum of Indian Stone Carving, Bhubaneswar",
+# "Category:Art"
+# ],
+# "Museum_of_Indian_Glasswork_Kolkata": [
+# "Category:Museum of Indian Glasswork, Kolkata",
+# "Category:Crafts"
+# ],
+# "Museum_of_Indian_Calligraphy_Delhi": [
+# "Category:Museum of Indian Calligraphy, Delhi",
+# "Category:Art"
+# ],
+# "Museum_of_Indian_Miniature_Paintings_Jaipur": [
+# "Category:Museum of Indian Miniature Paintings, Jaipur",
+# "Category:Art"
+# ],
+# "Museum_of_Tribal_Agriculture_Mysore": [
+# "Category:Museum of Tribal Agriculture, Mysore",
+# "Category:Agriculture"
+# ],
+# "Museum_of_Indian_Handicrafts_Ahmedabad": [
+# "Category:Museum of Indian Handicrafts, Ahmedabad",
+# "Category:Handicrafts"
+# ],
+# "Museum_of_Indian_Folk_Art_Bhubaneswar": [
+# "Category:Museum of Indian Folk Art, Bhubaneswar",
+# "Category:Folk Art"
+# ],
+# "Museum_of_Tribal_Religion_Imphal": [
+# "Category:Museum of Tribal Religion, Imphal",
+# "Category:Religious"
+# ],
+# "Museum_of_Indian_Ceramics_New_Delhi": [
+# "Category:Museum of Indian Ceramics, New Delhi",
+# "Category:Art & Crafts"
+# ],
+# "Museum_of_Indian_Folk_Theatre_Patna": [
+# "Category:Museum of Indian Folk Theatre, Patna",
+# "Category:Cultural"
+# ],
+# "Museum_of_Tribal_Textiles_Jaipur": [
+# "Category:Museum of Tribal Textiles, Jaipur",
+# "Category:Textile"
+# ],
+# "Museum_of_Indian_Musical_Instruments_Mumbai": [
+# "Category:Museum of Indian Musical Instruments, Mumbai",
+# "Category:Cultural"
+# ],
+# "Museum_of_Tribal_Masks_Chennai": [
+# "Category:Museum of Tribal Masks, Chennai",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Pottery_Surat": [
+# "Category:Museum of Indian Pottery, Surat",
+# "Category:Crafts"
+# ],
+# "Museum_of_Indian_Tribal_Art_Bhopal": [
+# "Category:Museum of Indian Tribal Art, Bhopal",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Folk_Tales_New_Delhi": [
+# "Category:Museum of Indian Folk Tales, New Delhi",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Folk_Paintings_Jaipur": [
+# "Category:Museum of Indian Folk Paintings, Jaipur",
+# "Category:Folk Art"
+# ],
+# "Museum_of_Indian_Tribal_Crafts_Imphal": [
+# "Category:Museum of Indian Tribal Crafts, Imphal",
+# "Category:Crafts"
+# ],
+# "Museum_of_Indian_Folk_Music_Mysore": [
+# "Category:Museum of Indian Folk Music, Mysore",
+# "Category:Cultural"
+# ],
+# "Museum_of_Indian_Textile_Arts_Kolkata": [
+# "Category:Museum of Indian Textile Arts, Kolkata",
+# "Category:Textile"
+# ],
+# "Akanal_Archaeological_Museum_Bijapur": [
+# "Category:Akanal Archaeological Museum, Bijapur",
+# "Category:Archaeology"
+# ],
+# "Amar_Mahal_Museum_and_Library_Hyderabad": [
+# "Category:Amar Mahal Museum and Library, Hyderabad",
+# "Category:History"
+# ],
+# "Anantapur_Archaeological_Museum_Anantapur": [
+# "Category:Anantapur Archaeological Museum, Anantapur",
+# "Category:Archaeology"
+# ],
+# "Archaeological_Museum_Tirupati": [
+# "Category:Archaeological Museum, Tirupati",
+# "Category:Archaeology"
+# ],
+# "Assam_State_Museum_Guwahati": [
+# "Category:Assam State Museum, Guwahati",
+# "Category:History"
+# ],
+# "Bhim_Betka_Rock_Shelters_Museum_Bhopal": [
+# "Category:Bhim Betka Rock Shelters Museum, Bhopal",
+# "Category:Archaeology"
+# ],
+# "Buddhist_Museum_Vaishali": [
+# "Category:Buddhist Museum, Vaishali",
+# "Category:Religious Art"
+# ],
+# "Cauvery_Archaeological_Museum_Thanjavur": [
+# "Category:Cauvery Archaeological Museum, Thanjavur",
+# "Category:Archaeology"
+# ],
+# "Central_Museum_Kolkata": [
+# "Category:Central Museum, Kolkata",
+# "Category:General"
+# ],
+# "Chandigarh_Museum_of_Folk_Art_Chandigarh": [
+# "Category:Chandigarh Museum of Folk Art, Chandigarh",
+# "Category:Folk Art"
+# ],
+# "Chennai_Archaeological_Museum_Chennai": [
+# "Category:Chennai Archaeological Museum, Chennai",
+# "Category:Archaeology"
+# ],
+# "Chhattisgarh_State_Museum_Raipur": [
+# "Category:Chhattisgarh State Museum, Raipur",
+# "Category:Art & Culture"
+# ],
+# "Coorg_Museum_Madikeri": [
+# "Category:Coorg Museum, Madikeri",
+# "Category:History"
+# ],
+# "Dibrugarh_Museum_Dibrugarh": [
+# "Category:Dibrugarh Museum, Dibrugarh",
+# "Category:History"
+# ],
+# "Dr._Bhau_Daji_Lad_Museum_Mumbai": [
+# "Category:Dr. Bhau Daji Lad Museum, Mumbai",
+# "Category:History"
+# ],
+# "East_India_Company_Museum_Kolkata": [
+# "Category:East India Company Museum, Kolkata",
+# "Category:History"
+# ],
+# "Folk_Art_Museum_Patna": [
+# "Category:Folk Art Museum, Patna",
+# "Category:Folk Art"
+# ],
+# "Gandhi_Museum_Ahmedabad": [
+# "Category:Gandhi Museum, Ahmedabad",
+# "Category:History"
+# ],
+# "Gwalior_Fort_Museum_Gwalior": [
+# "Category:Gwalior Fort Museum, Gwalior",
+# "Category:History"
+# ],
+# "Hampi_Archaeological_Museum_Hampi": [
+# "Category:Hampi Archaeological Museum, Hampi",
+# "Category:Archaeology"
+# ],
+# "Harishchandra_Research_Institute_Museum_Varanasi": [
+# "Category:Harishchandra Research Institute Museum, Varanasi",
+# "Category:History"
+# ],
+# "Hazaribagh_Museum_Hazaribagh": [
+# "Category:Hazaribagh Museum, Hazaribagh",
+# "Category:History"
+# ],
+# "Himachal_State_Museum_Shimla": [
+# "Category:Himachal State Museum, Shimla",
+# "Category:Cultural"
+# ],
+# "Hyderabad_Museum_Hyderabad": [
+# "Category:Hyderabad Museum, Hyderabad",
+# "Category:History"
+# ],
+# "Indian_Air_Force_Museum_New_Delhi": [
+# "Category:Indian Air Force Museum, New Delhi",
+# "Category:Military"
+# ],
+# "Indian_Museum_Kolkata": [
+# "Category:Indian Museum, Kolkata",
+# "Category:General/Natural History"
+# ],
+# "Indira_Gandhi_Museum_Hyderabad": [
+# "Category:Indira Gandhi Museum, Hyderabad",
+# "Category:History"
+# ],
+# "International_Dolls_Museum_New_Delhi": [
+# "Category:International Dolls Museum, New Delhi",
+# "Category:Toys & Dolls"
+# ],
+# "Jaisalmer_Fort_Museum_Jaisalmer": [
+# "Category:Jaisalmer Fort Museum, Jaisalmer",
+# "Category:History"
+# ],
+# "Jammu_Archaeological_Museum_Jammu": [
+# "Category:Jammu Archaeological Museum, Jammu",
+# "Category:Archaeology"
+# ],
+# "Jodhpur_Fort_Museum_Jodhpur": [
+# "Category:Jodhpur Fort Museum, Jodhpur",
+# "Category:History"
+# ],
+# "Karnataka_Government_Museum_Mysore": [
+# "Category:Karnataka Government Museum, Mysore",
+# "Category:Art & Culture"
+# ],
+# "Kerala_Folklore_Museum_Kozhikode": [
+# "Category:Kerala Folklore Museum, Kozhikode",
+# "Category:Cultural"
+# ],
+# "Khandwa_Museum_Khandwa": [
+# "Category:Khandwa Museum, Khandwa",
+# "Category:History"
+# ],
+# "Kochi_Maritime_Museum_Kochi": [
+# "Category:Kochi Maritime Museum, Kochi",
+# "Category:Maritime"
+# ],
+# "Kolkata_Port_Museum_Kolkata": [
+# "Category:Kolkata Port Museum, Kolkata",
+# "Category:Maritime"
+# ],
+# "Lalbagh_Botanical_Garden_Museum_Bangalore": [
+# "Category:Lalbagh Botanical Garden Museum, Bangalore",
+# "Category:Natural History"
+# ],
+# "Lucknow_State_Museum_Lucknow": [
+# "Category:Lucknow State Museum, Lucknow",
+# "Category:History"
+# ],
+# "Madhya_Pradesh_Tribal_Museum_Bhopal": [
+# "Category:Madhya Pradesh Tribal Museum, Bhopal",
+# "Category:Cultural"
+# ],
+# "Maharashtra_State_Museum_Mumbai": [
+# "Category:Maharashtra State Museum, Mumbai",
+# "Category:Art & History"
+# ],
+# "Mangalore_Maritime_Museum_Mangalore": [
+# "Category:Mangalore Maritime Museum, Mangalore",
+# "Category:Maritime"
+# ],
+# "Manipur_State_Museum_Imphal": [
+# "Category:Manipur State Museum, Imphal",
+# "Category:Cultural"
+# ],
+# "Meghalaya_State_Museum_Shillong": [
+# "Category:Meghalaya State Museum, Shillong",
+# "Category:Cultural"
+# ],
+# "Mizoram_State_Museum_Aizawl": [
+# "Category:Mizoram State Museum, Aizawl",
+# "Category:History"
+# ],
+# "Museum_of_Goa_Panjim": [
+# "Category:Museum of Goa, Panjim",
+# "Category:Contemporary Art"
+# ],
+# "Museum_of_Manipur_Culture_Imphal": [
+# "Category:Museum of Manipur Culture, Imphal",
+# "Category:Cultural"
+# ],
+# "Museum_of_Natural_History_Chennai": [
+# "Category:Museum of Natural History, Chennai",
+# "Category:Natural History"
+# ],
+# "Museum_of_Tribal_Art_Ahmedabad": [
+# "Category:Museum of Tribal Art, Ahmedabad",
+# "Category:Cultural"
+# ],
+# "Museum_of_Tribal_Paintings_Raipur": [
+# "Category:Museum of Tribal Paintings, Raipur",
+# "Category:Cultural"
+# ],
+# "Nagaland_State_Museum_Kohima": [
+# "Category:Nagaland State Museum, Kohima",
+# "Category:Cultural"
+# ],
+# "National_Gallery_of_Modern_Art_New_Delhi": [
+# "Category:National Gallery of Modern Art, New Delhi",
+# "Category:Modern Art"
+# ],
+# "National_Handicrafts_and_Handlooms_Museum_New_Delhi": [
+# "Category:National Handicrafts and Handlooms Museum, New Delhi",
+# "Category:Handicrafts"
+# ],
+# "National_Rail_Museum_New_Delhi": [
+# "Category:National Rail Museum, New Delhi",
+# "Category:Transport"
+# ],
+# "Nathdwara_Art_Museum_Nathdwara": [
+# "Category:Nathdwara Art Museum, Nathdwara",
+# "Category:Art"
+# ],
+# "Orissa_State_Museum_Bhubaneswar": [
+# "Category:Orissa State Museum, Bhubaneswar",
+# "Category:History"
+# ],
+# "Patna_Museum_Patna": [
+# "Category:Patna Museum, Patna",
+# "Category:History"
+# ],
+# "Punjab_State_Museum_Patiala": [
+# "Category:Punjab State Museum, Patiala",
+# "Category:Art & Culture"
+# ],
+# "Railway_Heritage_Museum_Mysore": [
+# "Category:Railway Heritage Museum, Mysore",
+# "Category:Transport"
+# ],
+# "Rajasthan_Oriental_Research_Institute_Jaipur": [
+# "Category:Rajasthan Oriental Research Institute, Jaipur",
+# "Category:Research"
+# ],
+# "Rajasthan_State_Archives_Museum_Jaipur": [
+# "Category:Rajasthan State Archives Museum, Jaipur",
+# "Category:History"
+# ],
+# "Rashtrapati_Bhavan_Museum_New_Delhi": [
+# "Category:Rashtrapati Bhavan Museum, New Delhi",
+# "Category:History"
+# ],
+# "Salar_Jung_Museum_Hyderabad": [
+# "Category:Salar Jung Museum, Hyderabad",
+# "Category:Art & History"
+# ],
+# "Science_City_Ahmedabad": [
+# "Category:Science City, Ahmedabad",
+# "Category:Science"
+# ],
+# "Sikkim_State_Museum_Gangtok": [
+# "Category:Sikkim State Museum, Gangtok",
+# "Category:History"
+# ],
+# "Smt._Hiraben_Nanavati_Museum_Ahmedabad": [
+# "Category:Smt. Hiraben Nanavati Museum, Ahmedabad",
+# "Category:Art & Culture"
+# ],
+# "State_Museum_of_Kerala_Thiruvananthapuram": [
+# "Category:State Museum of Kerala, Thiruvananthapuram",
+# "Category:Art & History"
+# ],
+# "Surat_Textile_Museum_Surat": [
+# "Category:Surat Textile Museum, Surat",
+# "Category:Textile"
+# ],
+# "Tamil_Nadu_Archaeology_Museum_Chennai": [
+# "Category:Tamil Nadu Archaeology Museum, Chennai",
+# "Category:Archaeology"
+# ],
+# "Telangana_State_Museum_Hyderabad": [
+# "Category:Telangana State Museum, Hyderabad",
+# "Category:History"
+# ],
+# "Tripura_State_Museum_Agartala": [
+# "Category:Tripura State Museum, Agartala",
+# "Category:Cultural"
+# ],
+# "Uttar_Pradesh_State_Museum_Lucknow": [
+# "Category:Uttar Pradesh State Museum, Lucknow",
+# "Category:History"
+# ],
+# "Uttarakhand_State_Museum_Dehradun": [
+# "Category:Uttarakhand State Museum, Dehradun",
+# "Category:Cultural"
+# ],
+# "Victoria_Memorial_Kolkata": [
+# "Category:Victoria Memorial, Kolkata",
+# "Category:History"
+# ],
+# "West_Bengal_State_Museum_Kolkata": [
+# "Category:West Bengal State Museum, Kolkata",
+# "Category:History"
+# ],
+# "World_War_II_Museum_Kochi": [
+# "Category:World War II Museum, Kochi",
+# "Category:Military"
+# ],
+# "Zoo_Museum_Kolkata": [
+# "Category:Zoo Museum, Kolkata",
+# "Category:Natural History"
+# ],
+# "Zonal_Cultural_Museum_Imphal": [
+# "Category:Zonal Cultural Museum, Imphal",
+# "Category:Cultural"
+# ],
+# "Zonal_Museum_of_Archaeology_Bhubaneswar": [
+# "Category:Zonal Museum of Archaeology, Bhubaneswar",
+# "Category:Archaeology"
+# ],
+# "Zoological_Survey_of_India_Museum_Kolkata": [
+# "Category:Zoological Survey of India Museum, Kolkata",
+# "Category:Natural History"
+# ],
+# "Adilabad_Museum_Adilabad": [
+# "Category:Adilabad Museum, Adilabad",
+# "Category:History"
+# ],
+# "Aizawl_Heritage_Museum_Aizawl": [
+# "Category:Aizawl Heritage Museum, Aizawl",
+# "Category:Cultural"
+# ],
+# "Almora_Museum_Almora": [
+# "Category:Almora Museum, Almora",
+# "Category:Cultural"
+# ],
+# "Ambedkar_Memorial_Museum_Hyderabad": [
+# "Category:Ambedkar Memorial Museum, Hyderabad",
+# "Category:History"
+# ],
+# "Amravati_Museum_Amravati": [
+# "Category:Amravati Museum, Amravati",
+# "Category:History"
+# ],
+# "Andhra_Pradesh_State_Archaeology_Museum_Vijayawada": [
+# "Category:Andhra Pradesh State Archaeology Museum, Vijayawada",
+# "Category:Archaeology"
+# ],
+# "Ankleshwar_Museum_Ankleshwar": [
+# "Category:Ankleshwar Museum, Ankleshwar",
+# "Category:History"
+# ],
+# "Asansol_Museum_Asansol": [
+# "Category:Asansol Museum, Asansol",
+# "Category:History"
+# ],
+# "Balasinor_Fossil_Park_Museum_Balasinor": [
+# "Category:Balasinor Fossil Park Museum, Balasinor",
+# "Category:Paleontology"
+# ],
+# "Banda_Museum_Banda": [
+# "Category:Banda Museum, Banda",
+# "Category:History"
+# ],
+# "Bardhaman_Museum_Bardhaman": [
+# "Category:Bardhaman Museum, Bardhaman",
+# "Category:History"
+# ]
 # "Jharkhand_Tribal_Music_Heritage_Museum_Ranchi": [
 # "Category:Jharkhand Tribal Music Heritage Museum, Ranchi",
 # "Category:Cultural"

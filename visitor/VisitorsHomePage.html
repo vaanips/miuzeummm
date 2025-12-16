@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,17 +8,17 @@
   <title>PixelPast Museum - Visitor Dashboard</title>
   <link rel="stylesheet" href="VisitersHomePage.css" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-  <!-- Chart.js -->
+
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js"></script>
-  <!-- Leaflet CSS -->
+   Leaflet CSS -
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <!-- Leaflet JS -->
+  -- Leaflet JS 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
 
 <body class="light-mode">
 
-  <!-- Navigation Header -->
+   Navigation Header 
   <header class="visitor-nav">
     <div class="nav-logo">
       <h2><i class="fas fa-museum"></i> PixelPast Museum</h2>
@@ -47,7 +48,7 @@
     </div>
   </header>
 
-  <!-- Hero Section -->
+ 
   <section id="home" class="hero-section">
     <video autoplay muted loop id="bg-video">
       <source src="../Visiter/assets/videos/background.mp4" type="video/mp4">
@@ -72,7 +73,7 @@
     </div>
   </section>
 
-  <!-- Dashboard Overview Section -->
+  
   <section id="dashboard" class="dashboard-overview">
     <div class="container">
       <h2><i class="fas fa-tachometer-alt"></i> Dashboard Overview</h2>
@@ -82,7 +83,7 @@
         <p>Here's your personalized museum dashboard.</p>
       </div>
 
-      <!-- Quick Stats -->
+     
       <div class="stats-grid">
         <div class="stat-card">
           <i class="fas fa-calendar-check"></i>
@@ -106,7 +107,7 @@
         </div>
       </div>
 
-      <!-- Quick Actions -->
+     
       <div class="quick-actions">
         <h3><i class="fas fa-bolt"></i> Quick Actions</h3>
         <div class="action-buttons">
@@ -135,12 +136,12 @@
     </div>
   </section>
 
-  <!-- Recent Bookings Section -->
+
   <section id="bookings" class="recent-bookings">
     <div class="container">
       <h2><i class="fas fa-calendar-check"></i> Recent Bookings</h2>
       <div class="bookings-grid" id="recentBookings">
-        <!-- Bookings will be loaded dynamically -->
+      >
       </div>
       <div class="no-bookings" id="noBookings" style="display: none;">
         <i class="fas fa-calendar-times"></i>
@@ -151,7 +152,7 @@
     </div>
   </section>
 
-  <!-- <section>
+
     <div class="containers">
       <h2>Museum Recommendation</h2>
       <input type="text" id="searchInput" placeholder="Enter museum name, city or type" style="color: black;">
@@ -159,14 +160,14 @@
 
       <div id="result"></div>
     </div>
-  </section> -->
+  </section> 
 
-  <!-- Booking Section -->
+ 
   <section id="booking" class="section">
     <div class="container">
       <h2><i class="fas fa-calendar-plus"></i> Book Your Museum Tour</h2>
 
-      <!-- Museum Search Section -->
+     
       <div class="museum-search-section">
         <h3><i class="fas fa-search"></i> Find Your Museum</h3>
         <div class="search-container">
@@ -208,14 +209,14 @@
           </div>
         </div>
 
-        <!-- Search Results Dropdown -->
+     
         <div class="search-results" id="searchResults" style="display: none;">
           <div class="results-header">
             <h4>Found Museums</h4>
             <span class="results-count" id="resultsCount">0 results</span>
           </div>
           <div class="results-list" id="resultsList">
-            <!-- Search results will be populated here -->
+          
           </div>
         </div>
       </div>
@@ -372,7 +373,6 @@
     </div>
   </section>
 
-  <!-- Booking History Section -->
   <section id="history" class="section">
     <div class="container">
       <h2><i class="fas fa-history"></i> Booking History</h2>
@@ -395,19 +395,19 @@
             </tr>
           </thead>
           <tbody id="historyTableBody">
-            <!-- History will be loaded dynamically -->
+         
           </tbody>
         </table>
       </div>
     </div>
   </section>
 
-  <!-- My Ratings Section -->
+ 
   <section id="my-ratings" class="section">
     <div class="container">
       <h2><i class="fas fa-star"></i> My Ratings</h2>
       <div id="ratingsList" class="bookings-grid">
-        <!-- Rated bookings will be loaded dynamically -->
+ 
       </div>
       <div id="noRatings" class="no-bookings" style="display: none;">
         <i class="fas fa-star-half-alt"></i>
@@ -417,37 +417,37 @@
     </div>
   </section>
 
-  <!-- Exhibitions Section -->
+  
   <section id="exhibitions" class="section">
     <div class="container">
       <h2><i class="fas fa-calendar-alt"></i> Current Exhibitions</h2>
       <div class="exhibits-container" id="exhibits-container">
-        <!-- Exhibitions will be loaded dynamically -->
+      
       </div>
       <div class="pagination" id="exhibits-nav"></div>
     </div>
   </section>
 
-  <!-- Popular Exhibits Section -->
-  <!-- <section id="popular" class="section">
+
+  < <section id="popular" class="section">
     <div class="container">
       <h2><i class="fas fa-fire"></i> Popular Exhibits</h2>
       <div class="exhibits-container" id="popular-container"></div>
       <div class="pagination" id="exhibits-nav"></div>
     </div>
-  </section> -->
+  </section> -
 
-  <!-- AI Recommendations Section -->
+
   <section id="recommendations" class="section">
     <div class="container">
 
-      <!-- <h2><i class="fas fa-robot"></i> AI-Powered Recommendations</h2>
+       <h2><i class="fas fa-robot"></i> AI-Powered Recommendations</h2>
       <div class="recommendation-section">
         <h3>Based on Your Interests</h3>
         <div class="recommendation-list" id="aiRecommendations">
           AI recommendations will be loaded dynamically
         </div>
-      </div> -->
+      </div> 
 
       <div class="recommendation-section">
         <h3>Trending This Week</h3>
@@ -493,7 +493,7 @@
       <div class="museum-list-container">
         <h3><i class="fas fa-list"></i> Recommended for You</h3>
         <div class="museum-list" id="museumList">
-          <!-- Museums will be populated dynamically -->
+          Museums will be populated dynamically 
         </div>
       </div>
     </div>
@@ -512,13 +512,13 @@
         <div id="personalizedResults" class="grid"></div>
       </section>
 
-      <!-- Popular -->
-      <!-- <section class="card" style="background-color: #F3F3F3; ">
+     
+      <section class="card" style="background-color: #F3F3F3; ">
         <h2>Popular Exhibits</h2>
         <div id="popularResults" class="grid" style="color: black;"></div>
-      </section> -->
+      </section>
 
-      <!-- Nearby -->
+     
       <section class="card" style="background-color: #F3F3F3;">
         <h2>Nearby Museums (via Geolocation)</h2>
         <div class="row">
@@ -527,7 +527,7 @@
           <button id="btnNearby">Use My Location</button>
         </div>
 
-        <!-- Exhibition Modal -->
+        
         <div id="exhibitModal" class="modal">
           <div class="modal-content">
             <span id="closeModal" class="close">&times;</span>
@@ -541,7 +541,7 @@
     </div>
   </div>
 
-  <!-- Exhibition Modal -->
+
   <div id="exhibitModal" class="modal">
     <div class="modal-content">
       <span id="closeModal" class="close">&times;</span>
@@ -549,29 +549,26 @@
     </div>
   </div>
 
-  <!-- Foreign Visitors Analytics Section -->
+
   <section id="foreign-visitors" class="section">
     <div class="container">
       <h2><i class="fas fa-globe"></i> Foreign Visitors Analytics</h2>
 
-      <!-- Chart Controls -->
+     
       <div class="chart-controls">
         <button class="chart-btn active" data-chart="yearly">Yearly Overview</button>
         <button class="chart-btn" data-chart="district">Top Districts</button>
         <button class="chart-btn" data-chart="monthly">Monthly Trends</button>
       </div>
 
-      <!-- Chart Container -->
       <div class="chart-container">
         <canvas id="foreignChart" width="800" height="400"></canvas>
       </div>
 
-      <!-- Chart Legend -->
       <div class="chart-legend" id="chartLegend">
-        <!-- Legend will be populated dynamically -->
+       
       </div>
 
-      <!-- Summary Stats -->
       <div class="stats-summary">
         <div class="summary-card">
           <i class="fas fa-users"></i>
@@ -593,7 +590,7 @@
   </section>
 
 
-  <!-- Foreign Visitors Chart Script -->
+  
   <script>
     let foreignChart = null;
     let currentChartType = 'yearly';
@@ -870,7 +867,7 @@
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Load museum locations from Flask API
+    
     fetch('/api/museum-locations')
       .then(res => res.json())
       .then(data => {
@@ -893,3 +890,4 @@
 </body>
 
 </html>
+-->

@@ -1,4 +1,4 @@
-:root {
+/*:root {
   --black: #000000;
   --mint: #CFFFE2;
   --teal: #9BD3C4;
@@ -149,7 +149,7 @@ h2 {
 
 
 
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -284,7 +284,7 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Dashboard Overview */
+
 .dashboard-overview {
   padding: 4rem 2rem;
   background: white;
@@ -406,7 +406,6 @@ body {
   font-size: 2rem;
 }
 
-/* Recent Bookings */
 .recent-bookings {
   padding: 4rem 2rem;
   background: var(--section-BG, #CFFFE2);
@@ -523,7 +522,6 @@ body {
   transform: translateY(-2px);
 }
 
-/* Booking Form */
 .booking-form-container {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -654,7 +652,7 @@ body {
   color: #000000;
 }
 
-/* History Section */
+
 .history-filters {
   display: flex;
   justify-content: center;
@@ -712,7 +710,7 @@ body {
   background: #f8f9fa;
 }
 
-/* Recommendations */
+
 .recommendation-section {
   margin-bottom: 3rem;
 }
@@ -796,7 +794,7 @@ body {
   gap: 0.25rem;
 }
 
-/* Map Section */
+
 .map-container {
   background: white;
   border-radius: 15px;
@@ -938,7 +936,7 @@ body {
   opacity: 0.9;
 }
 
-/* Museum Details Panel */
+
 .museum-details-panel {
   position: absolute;
   top: 0;
@@ -1091,7 +1089,7 @@ body {
   background: #333333;
 }
 
-/* Museum List */
+
 .museum-list-container {
   margin-top: 30px;
   background: white;
@@ -1185,75 +1183,75 @@ body {
   margin-top: 0.5rem;
 }
 
-/* Marker Positions (approximate India map coordinates) */
+/* Marker Positions (approximate India ma
 .museum-marker[data-lat="28.6139"][data-lng="77.2090"] {
   top: 15%;
   left: 45%;
 }
 
-/* Delhi - National Museum */
+/* Delhi - National Museum 
 .museum-marker[data-lat="28.6129"][data-lng="77.2295"] {
   top: 16%;
   left: 46%;
 }
 
-/* Delhi - NGMA */
+/* Delhi - NGMA 
 .museum-marker[data-lat="19.0760"][data-lng="72.8777"] {
   top: 45%;
   left: 25%;
 }
 
-/* Mumbai */
+/* Mumbai 
 .museum-marker[data-lat="22.5726"][data-lng="88.3639"] {
   top: 35%;
   left: 65%;
 }
 
-/* Kolkata */
+/* Kolkata 
 .museum-marker[data-lat="13.0827"][data-lng="80.2707"] {
   top: 65%;
   left: 55%;
 }
 
-/* Chennai */
+/* Chennai 
 .museum-marker[data-lat="17.3850"][data-lng="78.4867"] {
   top: 55%;
   left: 45%;
 }
 
-/* Hyderabad */
+/* Hyderabad 
 .museum-marker[data-lat="12.9716"][data-lng="77.5946"] {
   top: 60%;
   left: 40%;
 }
 
-/* Bangalore */
+/* Bangalore 
 .museum-marker[data-lat="26.9124"][data-lng="75.7873"] {
   top: 25%;
   left: 35%;
 }
 
-/* Jaipur */
+/* Jaipur 
 .museum-marker[data-lat="25.3176"][data-lng="82.9739"] {
   top: 30%;
   left: 50%;
 }
 
-/* Varanasi */
+/* Varanasi 
 .museum-marker[data-lat="23.0225"][data-lng="72.5714"] {
   top: 40%;
   left: 30%;
 }
 
-/* Ahmedabad */
+/* Ahmedabad/
 .museum-marker[data-lat="18.5204"][data-lng="73.8567"] {
   top: 50%;
   left: 28%;
 }
 
-/* Pune */
+/* Pune 
 
-/* Navigation Styles */
+/* Navigation Styles 
 .visitor-nav {
   position: fixed;
   top: 0;
@@ -1342,7 +1340,7 @@ body {
   transform: translateY(-2px);
 }
 
-/* Responsive Design */
+/* Responsive Design 
 @media (max-width: 768px) {
   .container {
     padding: 0 1rem;
@@ -1399,7 +1397,7 @@ body {
   }
 }
 
-/* Foreign Visitors Analytics Styles */
+/* Foreign Visitors Analytics Styles 
 .foreign-visitors {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
@@ -1498,7 +1496,7 @@ body {
   font-size: 0.9rem;
 }
 
-/* Responsive adjustments for foreign visitors */
+/* Responsive adjustments for foreign visi
 @media (max-width: 768px) {
   .chart-controls {
     flex-direction: column;
@@ -1520,7 +1518,6 @@ body {
   }
 }
 
-/* Enhanced Museum Booking Section Styles */
 .museum-search-section {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 15px;
@@ -1717,7 +1714,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Enhanced Form Styles */
+/* Enhanced Form Styles 
 .booking-form-container {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -1833,7 +1830,7 @@ body {
   box-shadow: none;
 }
 
-/* Museum Tooltip Styles */
+/* Museum Tooltip Styles 
 .museum-tooltip {
   position: fixed;
   background: white;
@@ -1892,7 +1889,7 @@ body {
   }
 }
 
-/* Pricing Info Styles */
+/* Pricing Info Styles 
 .pricing-info {
   margin-top: 0.5rem;
   padding: 0.8rem;
@@ -1938,7 +1935,7 @@ body {
   }
 }
 
-/* Enhanced Summary Styles */
+/* Enhanced Summary Styles 
 .booking-summary {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 15px;
@@ -2016,7 +2013,7 @@ body {
   font-size: 0.8rem;
 }
 
-/* Responsive Design */
+/* Responsive Design 
 @media (max-width: 1024px) {
   .booking-form-container {
     grid-template-columns: 1fr;
@@ -2073,7 +2070,7 @@ body {
   }
 }
 
-/* demo/static/VisitersHomePage.css */
+/* demo/static/VisitersHomePage.css 
 :root { --bg:#0b1020; --panel:#121933; --line:#1c254d; --text:#e8efff; --muted:#9fb0d9; --accent:#2c66ff; }
 *{box-sizing:border-box}
 body{margin:0;font-family:system-ui,Segoe UI,Roboto,Ubuntu;background:var(--bg);color:var(--text)}
@@ -2088,3 +2085,4 @@ body{margin:0;font-family:system-ui,Segoe UI,Roboto,Ubuntu;background:var(--bg);
 input{padding:8px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--text)}
 button{background:var(--accent);color:#fff;border:none;padding:8px 12px;border-radius:10px;cursor:pointer}
 button:hover{filter:brightness(1.08)}
+*/
